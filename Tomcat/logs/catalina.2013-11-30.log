@@ -1,0 +1,28 @@
+Nov 30, 2013 11:05:10 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Nov 30, 2013 11:05:10 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 30, 2013 11:05:10 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 30, 2013 11:05:10 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 640 ms
+Nov 30, 2013 11:05:10 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 30, 2013 11:05:10 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.27
+Nov 30, 2013 11:05:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/WU/Downloads/android&server/Tomcat/webapps/example
+Nov 30, 2013 11:05:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/WU/Downloads/android&server/Tomcat/webapps/homework
+Nov 30, 2013 11:05:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/WU/Downloads/android&server/Tomcat/webapps/host-manager
+Nov 30, 2013 11:05:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/WU/Downloads/android&server/Tomcat/webapps/manager
+Nov 30, 2013 11:05:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/WU/Downloads/android&server/Tomcat/webapps/ROOT
+Nov 30, 2013 11:05:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 30, 2013 11:05:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 30, 2013 11:05:11 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 469 ms

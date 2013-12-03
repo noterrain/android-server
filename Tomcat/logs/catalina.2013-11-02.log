@@ -1,0 +1,28 @@
+Nov 2, 2013 12:58:56 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Nov 2, 2013 12:58:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 2, 2013 12:58:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 2, 2013 12:58:56 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 973 ms
+Nov 2, 2013 12:58:56 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 2, 2013 12:58:56 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.27
+Nov 2, 2013 12:58:56 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/Macintosh HD/Documents/itp project/third-semester/understanding network/to_foungyu/Tomcat/webapps/example
+Nov 2, 2013 12:58:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/Macintosh HD/Documents/itp project/third-semester/understanding network/to_foungyu/Tomcat/webapps/homework
+Nov 2, 2013 12:58:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/Macintosh HD/Documents/itp project/third-semester/understanding network/to_foungyu/Tomcat/webapps/host-manager
+Nov 2, 2013 12:58:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/Macintosh HD/Documents/itp project/third-semester/understanding network/to_foungyu/Tomcat/webapps/manager
+Nov 2, 2013 12:58:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Volumes/Macintosh HD/Documents/itp project/third-semester/understanding network/to_foungyu/Tomcat/webapps/ROOT
+Nov 2, 2013 12:58:57 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 2, 2013 12:58:57 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 2, 2013 12:58:57 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 801 ms

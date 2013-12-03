@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1%0 - - [31/Oct/2013:00:13:08 -0700] "GET /homework/action.jsp?action=GET_VALUE_FROM_ANDROID&input=HeLlO HTTP/1.1" 200 9
+0:0:0:0:0:0:0:1%0 - - [31/Oct/2013:00:13:14 -0700] "GET /homework/action.jsp?action=SET_VALUE_FROM_ANDROID&input=HeLlO HTTP/1.1" 200 8
+0:0:0:0:0:0:0:1%0 - - [31/Oct/2013:00:14:11 -0700] "GET /homework/action.jsp?action=GET_VALUE_FROM_ANDROID HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1%0 - - [31/Oct/2013:00:14:28 -0700] "GET /homework/action.jsp?action=SET_VALUE_FROM_ARDUINO&input=xxx HTTP/1.1" 200 8
